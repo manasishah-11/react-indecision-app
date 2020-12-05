@@ -1,7 +1,7 @@
 # INDECISION APP
 
 ## Features of the web-app
-- The user can a list of daily tasks he/she has to perform of which he/she is not able to decide where to start.
+- The user can add a list of daily tasks he/she has to perform of which he/she is not able to decide where to start.
 - The computer will randomly select one task which the user can perform.
 - The user can also delete the task once its completed.
 
