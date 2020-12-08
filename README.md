@@ -15,3 +15,6 @@
 2. In the terminal, go to the project path and run the command `npm install`.
 3. After all the dependencies are installed, run the command `npm run dev-server`. This will start the server.
 4. Now go the web-browser and run the web-app at `localhost:8080`.
+
+## How the web-app works
+<img src="https://user-images.githubusercontent.com/72819553/101447434-3f2a4f80-394b-11eb-809a-567e321ed56a.gif" width="550" height="320">
